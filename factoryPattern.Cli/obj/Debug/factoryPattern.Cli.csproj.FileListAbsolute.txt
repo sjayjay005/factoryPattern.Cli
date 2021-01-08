@@ -1,0 +1,7 @@
+C:\code\net\factoryPattern.Cli\factoryPattern.Cli\bin\Debug\factoryPattern.Cli.exe.config
+C:\code\net\factoryPattern.Cli\factoryPattern.Cli\bin\Debug\factoryPattern.Cli.exe
+C:\code\net\factoryPattern.Cli\factoryPattern.Cli\bin\Debug\factoryPattern.Cli.pdb
+C:\code\net\factoryPattern.Cli\factoryPattern.Cli\obj\Debug\factoryPattern.Cli.csprojAssemblyReference.cache
+C:\code\net\factoryPattern.Cli\factoryPattern.Cli\obj\Debug\factoryPattern.Cli.csproj.CoreCompileInputs.cache
+C:\code\net\factoryPattern.Cli\factoryPattern.Cli\obj\Debug\factoryPattern.Cli.exe
+C:\code\net\factoryPattern.Cli\factoryPattern.Cli\obj\Debug\factoryPattern.Cli.pdb
